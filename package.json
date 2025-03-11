@@ -1,0 +1,24 @@
+{
+  "name": "@vicenzocavallaro/coolsolelog",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/VicenzoC/coolsolelog#readme",
+  "bugs": {
+    "url": "https://github.com/VicenzoC/coolsolelog/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VicenzoC/coolsolelog.git"
+  },
+  "license": "ISC",
+  "author": "Vicenzo Cavallaro",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "cool-ascii-faces": "^1.3.4"
+  }
+}
