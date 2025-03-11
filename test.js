@@ -1,4 +1,4 @@
-import { coolsolelog } from './index.js';
+import coolsolelog from './index.js';
 
 // Exeample 1:
 coolsolelog("Hello, world!");
