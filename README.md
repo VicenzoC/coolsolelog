@@ -17,3 +17,6 @@ import coolsolelog from '@vicenzocavallaro/coolsolelog';
 
 coolsolelog("Olá, mundo!");
 ```
+
+## Criado por
+Vicenzo Cavallaro RM:98128
