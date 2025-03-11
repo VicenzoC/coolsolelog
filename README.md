@@ -20,3 +20,5 @@ coolsolelog("Olá, mundo!");
 
 ## Criado por
 Vicenzo Cavallaro RM:98128
+Luigi Bonuccelli RM:560950
+João Victor Alvarenga RM:93752
